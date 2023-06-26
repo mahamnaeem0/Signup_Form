@@ -1,16 +1,3 @@
-# form
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![register](https://github.com/mahamnaeem0/Signup_Form/assets/134204127/f3de13ee-4cb5-438c-b9e0-867463134f0f)
+![Capture](https://github.com/mahamnaeem0/Signup_Form/assets/134204127/abca98d2-0468-488b-b396-26cdd28f3318)
+![welcome back](https://github.com/mahamnaeem0/Signup_Form/assets/134204127/0e667d33-b078-4ad9-bfe8-ce9c4412612e)
